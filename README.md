@@ -2,8 +2,8 @@
 <h1 align="center">Hola 👋, Me Llamo carlos Saenz</h1>
 
 
-### tecnologias
 
+<p align="center">Technical Skills</p>
 <h2>:bulb: Languages I code in</h2>
 
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -20,3 +20,10 @@
 <code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+  </a>
+</p
